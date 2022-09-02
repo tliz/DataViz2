@@ -1,0 +1,34 @@
+#tooltip {
+  position: absolute;
+  z-index: 2;
+  background: rgba(240, 233, 233, 0.8);
+  border-radius: 4px;
+  width: 105px;
+  height: 50px;
+  color: black;
+  font-size: 14px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+  top: -150px;
+  left: -150px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#tooltip p {
+  margin: 0;
+}
+
+#tooltip p.value {
+  font-weight: bold;
+}
+
+.legend {
+  display: table;
+  margin: 0 auto;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  height: 35px;
+  width: 250px;
+}

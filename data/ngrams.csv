@@ -1,0 +1,61 @@
+ngram,count,type
+internship,822,unigram
+tasks,704,unigram
+good,621,unigram
+successfully,535,unigram
+skills,528,unigram
+work,519,unigram
+encourage,502,unigram
+completed,477,unigram
+weeks,448,unigram
+week,420,unigram
+time,410,unigram
+new,386,unigram
+challenges,363,unigram
+managed,348,unigram
+end,341,unigram
+team,333,unigram
+app,296,unigram
+acquired,267,unigram
+student,258,unigram
+able,254,unigram
+end internship,280,bigrams
+successfully completed,248,bigrams
+weeks tasks,237,bigrams
+completed weeks,230,bigrams
+internship report,193,bigrams
+skills acquired,187,bigrams
+new skills,181,bigrams
+report explaining,173,bigrams
+explaining new,161,bigrams
+internship supposed,128,bigrams
+managed complete,122,bigrams
+handson skills,113,bigrams
+finished internship,112,bigrams
+present end,104,bigrams
+supposed present,94,bigrams
+successfully finished,89,bigrams
+started internship,88,bigrams
+ios commands,88,bigrams
+write end,88,bigrams
+going equip,86,bigrams
+successfully completed weeks,191,trigrams
+end internship report,184,trigrams
+completed weeks tasks,176,trigrams
+internship report explaining,173,trigrams
+new skills acquired,167,trigrams
+report explaining new,161,trigrams
+explaining new skills,161,trigrams
+present end internship,104,trigrams
+supposed present end,93,trigrams
+finished internship supposed,90,trigrams
+write end internship,88,trigrams
+successfully finished internship,85,trigrams
+going equip handson,84,trigrams
+equip handson skills,84,trigrams
+supposed write end,84,trigrams
+internship supposed present,84,trigrams
+cisco ios commands,76,trigrams
+managed complete weeks,69,trigrams
+skills practical competence,68,trigrams
+handson skills practical,66,trigrams
